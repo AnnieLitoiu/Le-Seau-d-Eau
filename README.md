@@ -21,7 +21,7 @@ Des cases bloquées apparaissent aléatoirement, ajoutant du défi et de la stra
 ![Capture du jeu](./images/Capture.PNG)
 
 ## 👩‍💻 Auteur
-Développé par **Annie Litoiu** dans le cadre d’un projet personnel de pratique du JavaScript.  
+Développé par **Annie Litoiu** dans le cadre d’une épreuve de pratique du JavaScript.  
 
 ---
 
